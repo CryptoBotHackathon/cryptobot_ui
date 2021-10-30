@@ -1,0 +1,17 @@
+h1{
+    text-align: left;
+}
+body{
+    background-color: lightgray;
+    font-family: 'Open Sans', sans-serif;
+}
+.container {
+    margin: auto;
+    width: 80%;
+    padding: 30px;
+    background-color: white;
+}
+.charts{
+    width: 80%;
+    margin: auto;
+}

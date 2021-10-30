@@ -1,0 +1,29 @@
+[
+    {
+        "date": "01.02.2019",
+        "value": 100,
+        "currency": "BitCoin"
+    },
+    {
+        "date": "01.12.2020",
+        "value": 150,
+        "currency": "dodgeCoin"
+    },
+    {
+        "date": "13.12.2020",
+        "value": 400,
+        "currency": "dodgeCoin"
+    },
+    {
+        "date": "01.10.2021",
+        "value": 200,
+        "currency": "dodgeCoin"
+    },
+    {
+        "date": "15.10.2021",
+        "value": 300,
+        "currency": "BitCoin"
+    }
+    
+
+]
